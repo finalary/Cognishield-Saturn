@@ -1,0 +1,4 @@
+StroopWord_a,StroopColor_a,Col1,Col2,Col3,p13a_corrAns,p13a_corrAns_Idx,colorVariable
+MANO,"[-1,-1,1]",-1,-1,1,BLUE,3,cBlue
+LIBRO,"[1,-1,-1]",1,-1,-1,RED,2,cRed
+TAVOLO,"[-1,0,-1]",-1,0,-1,GREEN,1,cGreen

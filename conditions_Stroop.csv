@@ -1,0 +1,13 @@
+StroopWord_b,StroopColor_b,p13b_corrAns,p13b_corrAns_Idx,Col1b,Col2b,Col3b
+VERDE,"[-1,-1,1]",BLU,3,-1,-1,1
+ROSSO,"[-1, 0, -1]",VERDE,1,-1,0,-1
+BLU,"[1,-1,-1]",ROSSO,2,1,-1,-1
+ROSSO,"[-1,-1,1]",BLU,3,-1,-1,1
+BLU,"[-1, 0, -1]",VERDE,1,-1,0,-1
+VERDE,"[1,-1,-1]",ROSSO,2,1,-1,-1
+ROSSO,"[-1, 0, -1]",VERDE,1,-1,0,-1
+BLU,"[1,-1,-1]",ROSSO,2,1,-1,-1
+ROSSO,"[-1,-1,1]",BLU,3,-1,-1,1
+VERDE,"[1,-1,-1]",ROSSO,2,1,-1,-1
+BLU,"[-1, 0, -1]",VERDE,1,-1,0,-1
+VERDE,"[-1,-1,1]",BLU,3,-1,-1,1
